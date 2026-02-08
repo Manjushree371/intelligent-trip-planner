@@ -4,7 +4,7 @@ An AI-powered travel planning application that helps users create personalized t
 
 ## 🚀 Features
 
-- **AI-Powered Trip Generation**: Create complete trip plans using OpenAI
+- **AI-Powered Trip Generation**: Create complete trip plans using AI
 - **Flexible Planning Modes**: 
   - Specific mode: Define destination and exact dates
   - Flexible mode: Choose a month and get AI destination suggestions
